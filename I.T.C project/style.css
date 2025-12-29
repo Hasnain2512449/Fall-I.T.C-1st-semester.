@@ -306,3 +306,10 @@ body {
     transform: scale(1.1) rotate(-5deg);
     background: var(--gold-hover);
 }
+footer {
+    background: linear-gradient(135deg, #b5b28a 0%, #fcecc9 100%);
+    border-top: 5.5px solid #ebb248;
+    color: #ad6739;
+    text-align: center;
+    padding: 25px;
+}
